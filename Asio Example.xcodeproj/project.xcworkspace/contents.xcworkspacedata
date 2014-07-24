@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Asio.xcodeproj">
+      location = "self:Asio Example.xcodeproj">
    </FileRef>
 </Workspace>
